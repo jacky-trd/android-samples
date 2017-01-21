@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CustomButton</string>
+    <string name="enabled">Enabled:</string>
+    <string name="disabled">Disabled:</string>
+    <string name="click_me">Click me</string>
+    <string name="multi_choice">多选按钮</string>
+</resources>

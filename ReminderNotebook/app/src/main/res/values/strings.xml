@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">ReminderNotebook</string>
+    <string name="add_event">添加事件</string>
+    <string name="dialog_title">添加事件</string>
+    <string name="ask_delete">是否要删除本数据？</string>
+    <string name="text_no">否</string>
+    <string name="text_yes">是</string>
+    <string name="input_time">整点时间</string>
+    <string name="input_content">事件内容</string>
+    <string name="event_save">存储</string>
+    <string name="add_success">添加成功</string>
+    <string name="delete_success">删除成功</string>
+    <string name="input_error">请输入一个0到24之间的整数时间</string>
+    <string name="input_empty">请输入提醒时间和事件内容</string>
+    <string name="event_time">event_time</string>
+    <string name="event_content">event_content</string>
+    <string name="alarm_id">alarm_id</string>
+    <string name="primary_id">_id</string>
+    <string name="table_name">event</string>
+    <string name="delete_clause">_id=?</string>
+    <string name="empty_string"></string>
+    <string name="GMT_8_Time_Zone">GMT+8</string>
+    <string name="notification_title">新消息</string>
+    <string name="notification_reAlarm">重新注册事件提醒成功</string>
+    <string name="notification_content_tag">remindText</string>
+    <string name="notification_id">notificationId</string>
+</resources>

@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="commons-logging-1.0.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/commons-logging-1.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/json.org.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/mina-core-2.0.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/slf4j-api-1.7.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/slf4j-jdk14-1.7.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/sqlite-jdbc-3.8.11.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/libs/sqlite-jdbc-3.8.11.2.jar!/" />
+    </SOURCES>
+  </library>
+</component>

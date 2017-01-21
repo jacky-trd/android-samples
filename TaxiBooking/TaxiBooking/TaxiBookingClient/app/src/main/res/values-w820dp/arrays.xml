@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="beijing">
+        <item>Beijing North Station</item>
+        <item>Beijing South Station</item>
+        <item>Beijing West Station</item>
+        <item>Beijing East Station</item>
+        <item>Beijing Station</item>
+    </array>
+    <array name="shanghai">
+        <item>ShangHai Station</item>
+        <item>ShangHai South Station</item>
+        <item>ShangHai West Station</item>
+        <item>HongQiao Station</item>
+        <item>SongJiang Station</item>
+    </array>
+</resources>

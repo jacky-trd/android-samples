@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Jokes</string>
+    <string name="large_text">Large Text</string>
+    <string name="small_text">Small Text</string>
+    <string name="text_content">Text Content</string>
+    <string name="DBName">PostsStorage</string>
+    <string name="id_tag">db_id</string>
+    <string name="table_name">posts</string>
+    <string name="date_col">date</string>
+    <string name="title_col">title</string>
+    <string name="content_col">content</string>
+    <string name="publish_time">发布时间：</string>
+    <string name="pull_down_refresh">下拉刷新</string>
+    <string name="last_update_time">上次更新为%1$s之前</string>
+    <string name="publish_date">发布日期：</string>
+    <string name="load_more">加载更多</string>
+    <string name="never_update">还未更新过</string>
+    <string name="time_error">时间错误</string>
+    <string name="update_just_now">刚刚更新过</string>
+    <string name="network_unavailable">无法连接到网络</string>
+    <string name="pull_to_refresh">下拉刷新</string>
+    <string name="release_to_refresh">释放刷新</string>
+    <string name="refreshing_now">正在加载</string>
+    <string name="loading_complete">数据全部加载完!</string>
+    <string name="id_col">_id</string>
+    <string name="post_date">post_date</string>
+    <string name="post_modified">post_modified</string>
+    <string name="post_title">post_title</string>
+    <string name="post_content">post_content</string>
+    <string name="post_id">ID</string>
+    <string name="pages">pages</string>
+    <string name="db_id">ID</string>
+    <string name="db_date">date</string>
+    <string name="db_modified">modified</string>
+    <string name="db_title">title</string>
+    <string name="db_content">content</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FragmentFlip3D</string>
+    <string name="back">Back</string>
+    <string name="go_to_next_page">Go to next page</string>
+</resources>

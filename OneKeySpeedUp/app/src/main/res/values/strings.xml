@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OneKeySpeedUp</string>
+    <string name="saves">为您节省了</string>
+    <string name="memory_m_unit">M内存</string>
+</resources>

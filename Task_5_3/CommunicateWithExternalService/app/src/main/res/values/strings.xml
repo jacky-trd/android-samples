@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CommunicateWithExternalService</string>
+    <string name="bindService">Bind External Service</string>
+    <string name="unbindService">Unbind External Service</string>
+    <string name="currentValueIs">Current value is:</string>
+    <string name="timerCountTag">TimerCountTag</string>
+    <string name="emptyString"></string>
+    <string name="packageFullPath">com.jikexueyuan.communicatewithinsideservice</string>
+    <string name="classFullPath">com.jikexueyuan.communicatewithinsideservice.TimerService</string>
+</resources>

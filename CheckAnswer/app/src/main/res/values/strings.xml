@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">CheckAnswer</string>
+    <string name="sex">你的性别是:</string>
+    <string name="male">男</string>
+    <string name="female">女</string>
+    <string name="question">选择出不属于四大洋的结果</string>
+    <string name="pacific">太平洋</string>
+    <string name="atlantic">大西洋</string>
+    <string name="summer">暖洋洋</string>
+    <string name="india">印度洋</string>
+    <string name="arctic">北冰洋</string>
+    <string name="bohai">渤海湾</string>
+    <string name="submit">提交</string>
+    <string name="choice">你选择的性别是： </string>
+    <string name="maleAnswer">男；</string>
+    <string name="femaleAnswer">女；</string>
+    <string name="correctChoice">多选择题选择正确。</string>
+    <string name="incorrectChoice">多选择题选择错误。</string>
+    <string name="error">请选择性别。</string>
+</resources>

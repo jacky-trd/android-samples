@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">SimpleContacts</string>
+    <string name="addNew">Add New</string>
+    <string name="emptyString"></string>
+    <string name="newContact">Add Contact</string>
+    <string name="newName">Name:</string>
+    <string name="newNumber">Phone:</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="choice">Please Choose</string>
+    <string name="call">Phone Call</string>
+    <string name="message">Send Messages</string>
+    <string name="uriContact">content://com.android.contacts/contacts</string>
+    <string name="idEqualsTo">id=</string>
+    <string name="uriContactPath">content://com.android.contacts/contacts/</string>
+    <string name="plusDataPath">/data</string>
+    <string name="data1">data1</string>
+    <string name="data2">data2</string>
+    <string name="mimeType">mimetype</string>
+    <string name="nameColumn">vnd.android.cursor.item/name</string>
+    <string name="phoneColumn">vnd.android.cursor.item/phone_v2</string>
+    <string name="uriRawContact">content://com.android.contacts/raw_contacts</string>
+    <string name="uriDataContact">content://com.android.contacts/data</string>
+    <string name="rawContactID">raw_contact_id</string>
+    <string name="standForPhone">2</string>
+    <string name="uriTel">tel:</string>
+    <string name="uriMessage">smsto:</string>
+</resources>

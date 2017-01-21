@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SimpleImageBrowser</string>
+    <string name="open_image">Open Image</string>
+    <string name="no_activity_found">没有找到合适的Activity</string>
+    <string name="target_image">rat.jpg</string>
+    <string name="intent_type">image/*</string>
+</resources>

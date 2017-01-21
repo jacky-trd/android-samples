@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SimpleContacts</string>
+    <string name="addNew">Add New</string>
+    <string name="emptyString"></string>
+    <string name="newContact">Add Contact</string>
+    <string name="newName">Name:</string>
+    <string name="newNumber">Phone:</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="choice">Please Choose</string>
+    <string name="call">Phone Call</string>
+    <string name="message">Send Messages</string>
+</resources>

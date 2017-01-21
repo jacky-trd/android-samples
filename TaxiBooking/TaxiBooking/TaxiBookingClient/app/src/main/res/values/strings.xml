@@ -1,0 +1,26 @@
+<resources>
+    <!--MainActivity-->
+    <string name="app_name">TaxiBookingClient</string>
+    <string name="phone_number_edittext">电话号码 :</string>
+    <string name="nike_name_edittext">昵称:</string>
+    <!--login hint-->
+    <string name="nousername">请输入用户名</string>
+    <string name="nophonenumber">请输入电话号码</string>
+
+    <!-- MapView -->
+    <string name="origin_button">起始地</string>
+    <string name="destination_button">目的地</string>
+    <string name="togglebutton_on_text">取消</string>
+    <string name="togglebutton_off_text">开始预约</string>
+
+    <!-- Order Detail Fragment -->
+    <string name="order_hint_ahead">司机</string>
+    <string name="order_hint_end">接受了您的预约</string>
+    <string name="order_phonenumber_text">电话号码:</string>
+    <string name="call_button_text">拨打电话</string>
+    <string name="permission_hint">没有权限</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello</string>
+    <string name="login">登陆</string>
+</resources>

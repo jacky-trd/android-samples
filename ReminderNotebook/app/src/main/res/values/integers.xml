@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name = "dbVersion">1</integer>
+    <integer name = "addEventRequest">2</integer>
+    <integer name = "addEventResultSuccess">3</integer>
+    <integer name = "zeroTime">0</integer>
+    <integer name = "twentyfourTime">24</integer>
+</resources>

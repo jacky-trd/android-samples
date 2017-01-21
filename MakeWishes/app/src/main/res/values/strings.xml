@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MakeWishes</string>
+    <string name="requestWishes">请写出你今天的愿望</string>
+    <string name="emptyString"></string>
+    <string name="confirm">确认</string>
+    <string name="cancel">取消</string>
+    <string name="wishesTag">wishes</string>
+    <string name="infoCancel">您取消了许愿操作</string>
+    <string name="unknownRequest">未知的请求</string>
+    <string name="yourWishesIs">您今天的愿望是：\n</string>
+</resources>

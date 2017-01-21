@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LaunchLocalApp</string>
+    <string name="local_app">This is a local app</string>
+    <string name="description">Click the below button to launch the local activity,
+        and you can also navigate to the uri \"local://example.app\" with your web browser to
+        launch the local activity</string>
+    <string name="launch">Launch the local activity</string>
+    <string name="uri">local://example.app</string>
+    <string name="error">Can not start up the activity</string>
+</resources>

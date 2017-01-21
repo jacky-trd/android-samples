@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MoveButton</string>
+    <string name="view_animation_xml">Move this by ViewAnimation(XML)</string>
+    <string name="view_animation_code">Move this by ViewAnimation(Java Code)</string>
+    <string name="object_animator_xml">Move this by ObjectAnimator(XML)</string>
+    <string name="object_animator_code">Move this by ObjectAnimator(Java Code)</string>
+</resources>

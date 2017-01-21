@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">TaxiBookingDriver</string>
+
+    <!--MainActivity-->
+    <string name="phone_number_edittext">电话号码 :</string>
+    <string name="nike_name_edittext">昵称:</string>
+    <!--login hint-->
+    <string name="nousername">请输入昵称</string>
+    <string name="nophonenumber">请输入电话号码</string>
+
+    <!--ListActivity-->
+    <string name="order_fail">该预约已经被抢</string>
+    <string name="permission_hint">没有权限</string>
+
+    <!-- Order Detail Fragment -->
+    <string name="order_hint_ahead">乘客:</string>
+    <string name="order_hint_end">接受你的预约</string>
+    <string name="order_phonenumber_text">电话:</string>
+    <string name="call_button_text">拨打电话</string>
+    <string name="finish_button_text">完成</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello</string>
+</resources>

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ActivityToBeStarted</string>
+    <string name="description">This is a activity to be started by another activity with permission</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CommunicateWithInsideService</string>
+    <string name="bindService">Bind Service</string>
+    <string name="unbindService">Unbind Service</string>
+    <string name="currentValueIs">Current value is:</string>
+    <string name="timerCountTag">TimerCountTag</string>
+    <string name="emptyString"></string>
+</resources>

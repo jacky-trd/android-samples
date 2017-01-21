@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    
+    <android.support.v4.view.ViewPager
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1.0"
+        android:id="@+id/container"
+        android:scrollbars="none"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:baselineAligned="false"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1.0"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <com.jikexueyuan.baiduorderplatform.GradientIconView
+                android:id="@+id/id_icon_home"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                app:bottom_icon="@drawable/tab_icon_home"
+                app:top_icon="@drawable/tab_icon_home_selected"/>
+
+            <com.jikexueyuan.baiduorderplatform.GradientTextView
+                android:id="@+id/id_text_home"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:top_text_color="@color/tab_text_red"
+                app:bottom_text_color="@color/tab_text_gray"
+                app:text="@string/start_page"
+                app:text_size="12sp"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1.0"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <com.jikexueyuan.baiduorderplatform.GradientIconView
+                android:id="@+id/id_icon_order"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                app:bottom_icon="@drawable/tab_icon_order"
+                app:top_icon="@drawable/tab_icon_order_selected"/>
+
+            <com.jikexueyuan.baiduorderplatform.GradientTextView
+                android:id="@+id/id_text_order"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:top_text_color="@color/tab_text_red"
+                app:bottom_text_color="@color/tab_text_gray"
+                app:text="@string/order"
+                app:text_size="12sp"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1.0"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <com.jikexueyuan.baiduorderplatform.GradientIconView
+                android:id="@+id/id_icon_me"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                app:bottom_icon="@drawable/tab_icon_me"
+                app:top_icon="@drawable/tab_icon_me_selected"/>
+
+            <com.jikexueyuan.baiduorderplatform.GradientTextView
+                android:id="@+id/id_text_me"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:top_text_color="@color/tab_text_red"
+                app:bottom_text_color="@color/tab_text_gray"
+                app:text="@string/me"
+                app:text_size="12sp"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

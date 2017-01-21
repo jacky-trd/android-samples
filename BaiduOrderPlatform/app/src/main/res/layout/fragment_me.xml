@@ -1,0 +1,61 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/color_light_gray">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:scrollbars="none">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:id="@+id/layoutMe"
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:background="@drawable/home_image_search"
+                android:gravity="center">
+
+                <Button
+                    android:id="@+id/btnMeLogin"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignLeft="@+id/ibSetting"
+                    android:layout_alignStart="@+id/ibSetting"
+                    android:layout_centerVertical="true"
+                    android:background="@drawable/me_img_btn_login_reg"
+                    android:text="登录/注册"
+                    android:textColor="#FF4040"
+                    android:textSize="20sp" />
+
+            </LinearLayout>
+
+            <ImageButton
+                android:id="@+id/ibSetting"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/me_image_setting" />
+
+            <LinearLayout
+                android:id="@+id/id_layout_me"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/layoutMe"
+                android:layout_gravity="center_vertical"
+                android:layout_marginTop="20dp"
+                android:orientation="vertical"/>
+
+        </RelativeLayout>
+
+    </ScrollView>
+
+</RelativeLayout>
