@@ -1,2 +1,2 @@
 # android-samples
-android-samples of jikexueyuan homework
+android-samples
